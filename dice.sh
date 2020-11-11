@@ -13,7 +13,8 @@ case $dicenum in
         ;;
 	 5)echo "fifth face"
         ;;
-
+	6)echo "first face"
+        ;;
 
 
 	*)echo "asbaskj"
